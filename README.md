@@ -38,18 +38,18 @@ Os exercícios estão organizados por áreas de conhecimento, abrangendo desde o
 - Visual Studio Code (VS Code)
 - Git e GitHub para controle de versão
 
-## 🚀 Como Executar os Exercícios
+## 📈 Progresso das Listas
 
-1. Acesse a pasta do exercício desejado.
-2. Execute o arquivo Python pelo terminal:
-
-   ```bash
-   python nome_do_arquivo.py
-   ```
-
-## 📈 Progresso
-
-Este repositório acompanha minha evolução nos estudos de Python, registrando as soluções desenvolvidas, os conceitos praticados e os conhecimentos adquiridos ao longo da jornada.
+- [x] Lista 01 — Estrutura Sequencial
+- [ ] Lista 02 — Estrutura de Decisão
+- [ ] Lista 03 — Estrutura de Repetição
+- [ ] Lista 04 — Exercícios sobre Listas
+- [ ] Lista 05 — Exercícios sobre Funções
+- [ ] Lista 06 — Exercícios sobre Strings
+- [ ] Lista 07 — Exercícios sobre Manipulação de Arquivos
+- [ ] Lista 08 — Exercícios sobre Classes
+- [ ] Lista 09 — Lista de Projetos
+- [ ] Lista 10 — Lista de Dados
 
 ## 🔗 Referência
 
